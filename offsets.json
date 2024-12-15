@@ -22,7 +22,7 @@
             "persistentlevel" : "0x40",
             "componenttoworld" : "0x1e0",
             "platform" : "0x430",
-            "targetedfortpawn" : "0x1920",
+            "targetedfortpawn" : "0x1930",
             "habanerocomponent" : "0xa38",
             "rankedprogress" : "0xd0",
             "projectilespeed" : "0x1E3C",
