@@ -33,11 +33,11 @@
 {
 	"weaponoffsets":
 	{
-	"currentweapon" : "0xa80",
-	"weapondata" : "0x568",
-	"ammocount" : "0xfac",
+	"currentweapon" : "0x5c0",
+	"weapondata" : "0x6a0",
+	"ammocount" : "0x10c4",
 	"itemname" : "0x40",
-	"tier" : "0x9A",
+	"tier" : "0x10c0",
 	"color" : "0x50",
 	"isreloading" : "0x3a9"
     }
