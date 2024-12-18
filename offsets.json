@@ -1,7 +1,7 @@
 {
     "offsets":
     {
-        "uworld": "0x170D9D88",
+        "uworld": "0x169D6108",
             "relativelocation" : "0x138",
             "owningworld" : "0x90",
             "acknowledgedpawn" : "0x350",
@@ -9,14 +9,14 @@
             "rootcomponent" : "0x1B0",
             "localplayers" : "0x38",
             "playercontroller" : "0x30",
-            "gameinstance" : "0x200",
+            "gameinstance" : "0x1f0",
             "pawnprivate" : "0x320",
-            "gamestate" : "0x188",
+            "gamestate" : "0x178",
             "playerarray" : "0x2C0",
             "playerstate" : "0x2C8",
             "lastsubmittime" : "0x150",
             "lastrendertime" : "0x30C",
-            "velocity" : "0x168",
+            "velocity" : "0x180",
             "bonearray" : "0x5A8",
             "bonecache" : "0x590",
             "persistentlevel" : "0x40",
@@ -34,8 +34,8 @@
 	"weaponoffsets":
 	{
 	"currentweapon" : "0x5c0",
-	"weapondata" : "0x6a0",
-	"ammocount" : "0x10c4",
+	"weapondata" : "0x690",
+	"ammocount" : "0x10bc",
 	"itemname" : "0x40",
 	"tier" : "0x10c0",
 	"color" : "0x50",
