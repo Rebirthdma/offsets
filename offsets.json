@@ -22,6 +22,7 @@
             "persistentlevel" : "0x40",
             "componenttoworld" : "0x1e0",
             "platform" : "0x430",
+	    "username" : "0xAF8",
             "targetedfortpawn" : "0x1930",
             "habanerocomponent" : "0xa38",
             "rankedprogress" : "0xd0",
