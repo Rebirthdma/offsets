@@ -11,7 +11,7 @@
             "playercontroller" : "0x30",
             "gameinstance" : "0x1F8",
             "pawnprivate" : "0x320",
-            "gamestate" : "0x178",
+            "gamestate" : "0x180",
             "playerarray" : "0x2C0",
             "playerstate" : "0x2C8",
             "lastsubmittime" : "0x150",
