@@ -13,6 +13,7 @@
             "pawnprivate" : "0x320",
             "gamestate" : "0x180",
             "playerarray" : "0x2C0",
+	    "teamindex" : "0x1259",
             "playerstate" : "0x2C8",
             "lastsubmittime" : "0x150",
             "lastrendertime" : "0x30C",
