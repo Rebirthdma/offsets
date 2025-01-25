@@ -3,7 +3,7 @@
     {
         "uworld": "0x164015B8",
             "relativelocation" : "0x138",
-            "owningworld" : "0x90",
+            "owningworld" : "0x88",
             "acknowledgedpawn" : "0x350",
             "mesh" : "0x328",
             "rootcomponent" : "0x1B0",
