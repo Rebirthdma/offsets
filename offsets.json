@@ -28,7 +28,9 @@
             "habanerocomponent" : "0xa38",
             "rankedprogress" : "0xd0",
             "projectilespeed" : "0x1DD0",
-            "projectilegravity" : "0x1DD4"
+            "projectilegravity" : "0x1DD4",
+	    "camera1" : "0x130",
+	    "camera2" : "0x140"
     }
 }
 
